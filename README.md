@@ -4,7 +4,4 @@ Este projeto de banco de dados trata-se de um trabalho referente a matéria "Sis
 
 O projeto foi desenvolvido pelo aluno Gabriel Ribeiro de Araújo.
 
-Contato
-```
-gableisure@sempreceub.com
-```
+Contato ```gableisure@sempreceub.com```
